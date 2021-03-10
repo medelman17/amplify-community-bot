@@ -1,0 +1,8 @@
+{
+  "name": "amplify-community-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:medelman17/amplify-community-bot.git",
+  "author": "Michael Edelman <metalman@amazon.com>",
+  "license": "MIT"
+}
